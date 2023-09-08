@@ -1,0 +1,22 @@
+.crypto-main{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.crypto-container{
+  display: flex;
+  justify-content: space-around;
+}
+.crypto-container>div{
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+.crypto_name_price{
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+.error-message{
+  color: red;
+}

@@ -1,0 +1,23 @@
+.converter-main{
+  width: 20%;
+  text-align: center;
+  margin: auto;
+}
+.converter-main div form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.converter-main div form input {
+  padding: 10px 5px;
+  font-size: 18px;
+}
+.converter-main div form button {
+  padding: 10px 5px;
+  font-size: 18px;
+}
+.converter-main div form select {
+  padding: 10px 5px;
+  font-size: 18px;
+}
